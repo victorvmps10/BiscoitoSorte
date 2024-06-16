@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.img{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 220px;
+    height: 250px;
+}
+
+.textLuck{
+    margin-top: 20px;
+    color: #FFA500;
+    font-size: 20px;
+    text-align: center;
+}
